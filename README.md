@@ -293,7 +293,7 @@ As entidades utilizam conceitos como:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/dimelobarros/ddd-clean-arch.git
+git clone https://github.com/diegodemelo/ddd-clean-arch.git
 ```
 
 Entre no diretório:
@@ -410,7 +410,7 @@ JavaScript • TypeScript • React • Next.js • Node.js • PostgreSQL
 [Diego de Melo](https://br.linkedin.com/in/diego-de-melo-0a02b739b)
 
 **GitHub:**  
-[@dimelobarros](https://github.com/dimelobarros)
+[@diegodemelo](https://github.com/diegodemelo)
 
 ---
 
